@@ -1,5 +1,7 @@
 # Go Concurrency Demo - Reddit Sim 🚀
 
+![Demo gif](./docs/go.gif)
+
 A high-performance Reddit simulation demonstrating Go's incredible concurrency capabilities - running a complete event system, real-time PostgreSQL operations, batch processing, and live metrics dashboard in just 28MB of RAM.
 
 This project showcases Go's goroutines and channels to efficiently handle:
