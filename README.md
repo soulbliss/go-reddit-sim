@@ -102,7 +102,7 @@ go processInBatches()   // 2KB
    - Node.js: Non-blocking but sequential
    - Go: True parallel operations with connection pooling
 
-## Why This Is Production-Ready 🏭
+## What are the main advantages 🏭
 
 1. **Resource Efficiency**
    - 28MB running what would take 200MB+ in Python
